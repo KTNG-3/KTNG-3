@@ -9,3 +9,4 @@ I am new Developer, I am not great at grammar
 ## Main Project
 
 [![@ing3kth/val-api](https://github-readme-stats.vercel.app/api/pin/?username=KTNG-3&repo=val-api&theme=tokyonight)](https://github.com/KTNG-3/val-api)
+[![Survival 1.19](https://github-readme-stats.vercel.app/api/pin/?username=KTNG-3&repo=Ing-Project-Survival-1.19&theme=tokyonight)](https://github.com/KTNG-3/Ing-Project-Survival-1.19)
