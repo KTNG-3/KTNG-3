@@ -2,7 +2,7 @@
 
 I'm ING3_, Developer from Thailand
 
-I am new Programmer, I am not great at english
+I am new Programmer, I am [not great at english](https://translate.google.com/)
 
 [![ING3's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTNG-3&theme=tokyonight)](https://github.com/KTNG-3/KTNG-3)
 
