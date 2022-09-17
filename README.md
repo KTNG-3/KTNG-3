@@ -10,4 +10,4 @@ I'm ING3_, Developer from Thailand
 
 - Discord: INg3_#9509
 - Discord Server: https://discord.gg/pbyWbUYjyt
-- Mail: <kawinth.ingproject@gmail.com>
+- Twitter: [@GgKawinth](https://twitter.com/GgKawinth)
