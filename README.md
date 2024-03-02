@@ -8,6 +8,5 @@ I'm ING3_, Developer from Thailand
 
 ## Contact
 
-- Discord: INg3_#9509
+- Discord: kawtn_
 - Discord Server: https://discord.gg/pbyWbUYjyt
-- Twitter: [@GgKawinth](https://twitter.com/GgKawinth)
