@@ -16,11 +16,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # Keep your preferred theme and local timezone
-          config_timezone: Asia/Bangkok
-          
+
           # Core stats
           base: header, activity, community, repositories, metadata
+          
+          # Keep your preferred theme and local timezone
+          config_timezone: Asia/Bangkok
           
           # Top Languages Plugin
           plugin_languages: yes
